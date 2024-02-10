@@ -592,5 +592,25 @@ footer a:hover {
 
 
 
-/*-------------registration--------------*/
+/*-------------basket--------------*/
 
+.cart-content table img {
+    max-width: 70px;
+}
+
+.cart-content table th {
+    text-align: center;
+}
+
+.cart-content table td {
+    padding: 1rem;
+}
+
+.cart-content-title {
+    text-decoration: none;
+    display: block;
+}
+
+.cart-qty {
+    width: 70px;
+}
